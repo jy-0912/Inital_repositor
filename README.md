@@ -1,4 +1,10 @@
-# Initial_project
+AI 분석 프로젝트
+=================
+AI를 분석하는 프로젝트 입니다.
 
-![light_logo_edited](https://user-images.githubusercontent.com/103096786/162394806-ed856f46-e800-46b8-89ca-73510b2fbb34.png)
+Start
+-------
 
+## Installation
+-------------
+다음과 같이 설치 가능합니다.
