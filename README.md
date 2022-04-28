@@ -16,6 +16,7 @@ print("AI를 같이 공부해요!")
 Image
 -----
 ![deepedu_logo](https://user-images.githubusercontent.com/103096786/164391312-cfbc8178-8152-4179-aa89-af9ae6adadf6.png)
+![cat](https://user-images.githubusercontent.com/103096786/165682983-6da8682e-d64d-4c03-ba8f-d551e6f26071.jpg)
 
 Reference
 ------
